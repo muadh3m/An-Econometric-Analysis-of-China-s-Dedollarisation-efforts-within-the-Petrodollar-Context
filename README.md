@@ -54,11 +54,3 @@ The analysis employs a range of time-series econometric techniques, including:
 - Despite increasing internationalisation of the RMB, the US dollar remains deeply embedded within the global financial and energy systems.
 
 ---
-
-## Repository Contents
-
-```text
-.
-├── Dissertation completed.pdf
-├── README.md
-└── figures/
