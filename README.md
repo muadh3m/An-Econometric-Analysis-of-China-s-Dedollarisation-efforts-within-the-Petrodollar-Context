@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/a0462132-1297-4cae-81bc-4dec020d5fd3" />
+<img width="1536" height="1024" alt="Designer (2)" src="https://github.com/user-attachments/assets/ed2ff641-ce44-44a3-9c1b-041a9ba1ccce" />
 
 # Currency and Control
 
