@@ -1,5 +1,11 @@
 <img width="1536" height="1024" alt="Designer (2)" src="https://github.com/user-attachments/assets/ed2ff641-ce44-44a3-9c1b-041a9ba1ccce" />
 
+> **Note:** The material presented below is intended as a brief overview of the research. For the complete study, including theoretical background, methodology, econometric analysis, empirical findings and conclusions, please refer to the accompanying report:
+>
+> **[Currency and Control.pdf](Currency%20and%20Control.pdf)**
+>
+> The report contains the full project and should be viewed alongside this repository.
+
 # Currency and Control
 
 ### China's Dedollarisation Efforts within the Petrodollar System
